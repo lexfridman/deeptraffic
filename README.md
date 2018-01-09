@@ -12,6 +12,13 @@ Jack to-do: add a version of the about page here.
 
 DeepTraffic is a deep reinforcement learning competition part of the [MIT Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu) course. The goal is to create a neural network to drive a vehicle (or multiple vehicles) as fast as possible through dense highway traffic. An instance of your neural network gets to control one of the cars (displayed in red) and has to learn how to navigate efficiently to go as fast as possible. The car already comes with a safety system, so you don’t have to worry about the basic task of driving – the net only has to tell the car if it should accelerate/slow down or change lanes, and it will do so if that is possible without crashing into other cars.
 
+[##overview]Overview
+[##training-and-evaluation]Training and Evaluation
+[##controlling-multiple-vehicles]Controlling Multiple Vehicles
+[##designing-the-neural-network]Designing the Neural Network
+[##submission]Submission
+[##Customization-&-visualization]Customization and Visualization
+
 ## Overview
 
 ![alt text](https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2018/01/Screenshot-from-2018-01-08-17-45-42.png "DeepTraffic screenshot")
