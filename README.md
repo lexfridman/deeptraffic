@@ -22,12 +22,9 @@ Let's start at the end, with the kind of [visualization](https://selfdrivingcars
 
 ![DeepTraffic visualization](images/deeptraffic-visualization-example.gif)
 
-If you would like to get start right away, this repository provides two code snippets to insert into the code box on the [DeepTraffic site](https://selfdrivingcars.mit.edu/deeptraffic/):
+If you would like to get start right away, this repository provides a code snippet to insert into the code box on the [DeepTraffic site](https://selfdrivingcars.mit.edu/deeptraffic/): 
 
-1. **network_basic.js**: A basic network that achieves ~66.8mph.
-2. **network_best.js**: The top network on the leaderboard (by [Rafal Kwasny](https://www.linkedin.com/in/rafalkwasny/)) that achieves 76.60mph.
-
-[Visualization](https://selfdrivingcars.mit.edu/deeptraffic-visualization) - [Leaderboard](https://selfdrivingcars.mit.edu/deeptraffic-leaderboard) - [Documentation](https://selfdrivingcars.mit.edu/deeptraffic-documentation) - [Paper](https://arxiv.org/abs/1801.02805)
+**network_basic.js**: A basic network that achieves ~66.8mph.
 
 And now let's return to the beginning...
 
