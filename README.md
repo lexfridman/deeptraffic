@@ -85,7 +85,7 @@ Each vehicle has a safety system which prevents it from colliding with other veh
 
 For example, here, the red car cannot accelerate or change into the right lane, because the collision avoidance system has detected vehicles in the way:
 
-!(safety system)[https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-16.28.32-152x300.png]
+![safety system](https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-16.28.32-152x300.png)
 
 A vehicle that is 4 cells behind another will immediately slow to match the lead vehicle, regardless of what its algorithm tries to do. (see diagram above)
 
