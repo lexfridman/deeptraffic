@@ -20,7 +20,7 @@ archivePrefix = {arXiv},
 
 Let's start at the end, with the kind of [visualization](https://selfdrivingcars.mit.edu/deeptraffic-visualization/) you can get once you submit to the competition:
 
-![DeepTraffic visualization](https://selfdrivingcars.mit.edu/files/deeptraffic/example_visualization/deeptraffic-visualization-example.gif)
+![DeepTraffic visualization](images/deeptraffic-visualization-example.gif)
 
 If you would like to get start right away, this repository provides two code snippets to insert into the code box on the [DeepTraffic site](https://selfdrivingcars.mit.edu/deeptraffic/):
 
