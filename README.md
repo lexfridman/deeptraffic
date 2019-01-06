@@ -51,7 +51,7 @@ The game page consists of four different areas:
 
 - Below the coding area, you can find (1) a graph showing a moving average of the center red car’s reward, (2) a visualization of the neural network activations, and (3) buttons for training and testing your network.
 
-- Between the simulated roadway and the graphs, you can find the current image of you vehicle and some options to customize it and create a visualization of your best submisison.
+- Between the simulated roadway and the graphs, you can find the current image of you vehicle and some options to customize it and create a visualization of your best submission.
 
 The simulation area shows some basic information like the current speed of the car and the number of cars that have been passed since you opened the site. It also allows you to change the way the simulation is displayed.
 ![Display selection](http://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2017/01/normal.gif)
