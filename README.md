@@ -22,7 +22,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-To get start right away, this repository provides a code snippet to insert into the code box on the [DeepTraffic site](https://selfdrivingcars.mit.edu/deeptraffic/). We'll add additional agents  as the course progresses:
+To get started right away, this repository provides a code snippet to insert into the code box on the [DeepTraffic site](https://selfdrivingcars.mit.edu/deeptraffic/). We'll add additional agents  as the course progresses:
 
 **network_basic.js**: A basic network that achieves ~66.8mph.
 
