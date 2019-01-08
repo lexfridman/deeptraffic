@@ -135,3 +135,12 @@ See [Documentation page](https://selfdrivingcars.mit.edu/deeptraffic-documentati
 - [3] Horn, Berthold KP. "Suppressing traffic flow instabilities." Intelligent Transportation Systems-(ITSC), 2013 16th International IEEE Conference on. IEEE, 2013. https://people.csail.mit.edu/bkph/articles/Suppressing_Traffic_Flow%20Instabilities_IEEE_ITS_2013.pdf
 - [4] Stern, Raphael E., et al. "Dissipation of stop-and-go waves via control of autonomous vehicles: Field experiments." Transportation Research Part C: Emerging Technologies 89 (2018): 205-221. https://arxiv.org/pdf/1705.01693.pdf
 - [5] https://link.springer.com/content/pdf/10.1007/BF00992698.pdf
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/cSth1AVIv54/0.jpg)](https://www.youtube.com/watch?v=cSth1AVIv54)
+
+ [https://www.youtube.com/watch?v=cSth1AVIv54](https://www.youtube.com/watch?v=cSth1AVIv54)
+
