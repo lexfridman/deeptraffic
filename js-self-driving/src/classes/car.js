@@ -23,14 +23,27 @@ class Car{
         this.maxSpeed=3;
         this.friction=0.05;
         this.angle=0;
-
+        // this.sinAngleCache = null;
         this.controls=new Controls();
     }
 
     update(){
+        // this.#cacheAngleOptimization();
         this.#move();
     }
 
+    // #cacheAngleOptimization(){
+    //     // Calculate the sine of the angle if the angle has changed
+    //     if (this.sinAngleCache === null || this.sinAngleCache.angle !== this.angle) {
+    //       this.sinAngleCache = {
+    //         angle: this.angle,
+    //         sin: Math.sin(this.angle),
+    //       };
+        
+    //     this.x += this.sinAngleCache.sin * this.speed;
+    //     this.y += this.sinAngleCache.sin * this.speed;
+    //     }
+    // }
     #move(){
         /*
         if the object's controls.forward property is true, and if it is, the object's speed property is increased by the object's acceleration property.

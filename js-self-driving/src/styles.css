@@ -1,17 +1,10 @@
-html {
-    padding: 0;
-    margin: 0;
-}
-
 body {
-    padding: 0;
     margin: 0;
     background-color: black;
-    color: antiquewhite;
     overflow: hidden;
     text-align: center;
 }
 
 #canvas {
-    background-color: blanchedalmond;
+    background-color: rgb(112, 111, 110);
 }
