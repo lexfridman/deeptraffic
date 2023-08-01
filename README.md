@@ -124,7 +124,7 @@ See [Documentation page](https://selfdrivingcars.mit.edu/deeptraffic-documentati
 
 ## Team
 
-- [Lex Fridman](https://lexfridman.com/) ([Twitter](https://twitter.com/))
+- [Lex Fridman](https://lexfridman.com/) ([Twitter](https://twitter.com/)) :heart:
 - [Jack Terwilliger](http://www.mit.edu/~jterwill/)
 - [Benedikt Jenik](http://bjenik.com/)
 
